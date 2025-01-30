@@ -131,5 +131,94 @@ display: inline-block;
     border: 2px solid black;
     box-shadow: 10px 10px 16px 1px lightslategray;
     background-color: yellow;
+    
+
+
 }
 
+#a12:hover{
+    color:brown;
+    background-color: lightblue;
+    transition: all 3s ease-in-out 0.5s;
+    transform: translateX(-80px);
+  
+  }
+#a1:hover{
+    color:brown;
+    background-color: lightblue;
+    transition: all 3s ease-in-out 0.5s;
+    transform: scale(2);
+  
+    
+}
+#a2:hover{
+    color:brown;
+    background-color: lightblue;   
+    transition: all 3s ease-in-out 0.5s;
+    transform:  scale(0.5);
+  
+}
+#a3:hover{
+    color:brown;
+    background-color: lightblue;
+    transition: all 3s ease-in-out 0.5s;
+    transform:  scale(2);
+  
+}
+#a4:hover{
+    color:brown;
+    background-color: lightblue;
+    transition: all 3s ease-in-out 0.5s;
+    transform:  scale(0.5);
+  
+}
+#a5:hover{
+    color:brown;
+    background-color: lightblue;
+    transition: all 3s ease-in-out 0.5s;
+    transform: translatey(50px);
+  
+}
+#a6:hover{
+    color:brown;
+    background-color: lightblue;
+    transition: all 3s ease-in-out 0.5s;
+    transform: translatey(-50px);
+  
+}
+#a7:hover{
+    color:brown;
+    background-color: lightblue;
+    transition: all 3s ease-in-out 0.5s;
+    transform: translatey(50px);
+  
+}
+#a8:hover{
+    color:brown;
+    background-color: lightblue;
+    transition: all 3s ease-in-out 0.5s;
+    transform: translatey(-50px);
+  
+}
+#a9:hover{
+    color:brown;
+    background-color: lightblue;
+    transition: all 3s ease-in-out 0.5s;
+    transform: translateX(80px);
+  
+}
+#a10:hover{
+    color:brown;
+    background-color: lightblue;
+    transition: all 3s ease-in-out 0.5s;
+    transform: translateX(-80px);
+  
+}
+#a11:hover{
+    color:brown;
+    background-color: lightblue;
+    transition: all 3s ease-in-out 0.5s;
+    transform: translateX(80px);
+  
+}
+
