@@ -1,0 +1,135 @@
+#q1{
+    height: 80px;
+    width: 600px;
+    border: 2px solid black; 
+    margin: auto;
+     box-shadow:  inset 10px 10px 10px 10px red;
+     text-align: center;
+     margin-left: 250px;
+   
+
+    
+
+}
+div{
+display: inline-block;
+
+}
+
+#a1{
+    height: 200px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 2px solid black;
+    box-shadow: 1px 1px 9px 9px blue;
+    background-color: aqua;
+  
+
+}
+#a2{
+    height: 200px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 2px solid black;
+    box-shadow:  1px 1px 20px 10px brown;
+    background-color: lightgoldenrodyellow;
+}
+#a3{
+    height: 200px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 2px solid black;
+    box-shadow:  inset 1px 1px 10px 10px pink;
+    background-color: lightcyan;
+
+}
+#a4{
+    height: 200px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 2px solid black;
+    box-shadow:  10px 1px 1px 10px purple;
+    background-color: lightskyblue;
+
+}
+#a5{
+    height: 200px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 2px solid black;
+    box-shadow:  inset 1px 1px 10px 10px red;
+    background-color: linen;
+
+}
+#a6{
+    height: 200px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 2px solid black;
+    box-shadow: 10px 10px 10px 10px lightblue;
+    background-color:red;
+
+}
+#a7{
+    height: 200px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 2px solid black;
+    box-shadow:  inset 1px 1px 15px 15px white;
+    background-color: blue;
+
+}
+#a8{
+    height: 200px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 2px solid black;
+    box-shadow:   1px 10px 1px 10px gold;
+    background-color: lightcoral;
+}
+#a9{
+    height: 200px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 2px solid black;
+    box-shadow:  1px 1px 20px 30px silver;
+    background-color: linen;
+
+}
+#a10{
+    height: 200px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 2px solid black;
+    box-shadow:  inset 1px 1px 9px 9px lightsalmon;
+    background-color: blueviolet;
+}
+#a11{
+    height: 200px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 2px solid black;
+    box-shadow:  inset 10px 10px 10px 20px aqua;
+    background-color: brown;
+}
+#a12{
+    height: 200px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border: 2px solid black;
+    box-shadow: 10px 10px 16px 1px lightslategray;
+    background-color: yellow;
+}
+
